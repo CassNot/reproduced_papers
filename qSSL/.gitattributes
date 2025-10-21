@@ -32,3 +32,6 @@ results/qiskit/20250824_084821/args.json filter=lfs diff=lfs merge=lfs -text
 results/qiskit/20250824_084821/model-cl-5-epoch-0.pth filter=lfs diff=lfs merge=lfs -text
 results/qiskit/20250824_084821/model-cl-5-epoch-2.pth filter=lfs diff=lfs merge=lfs -text
 results/qiskit/20250824_084821/model-cl-5-epoch-5.pth filter=lfs diff=lfs merge=lfs -text
+results/qiskit/20250824_084821/** filter=lfs diff=lfs merge=lfs -text
+results/merlin/20250827_181840/** filter=lfs diff=lfs merge=lfs -text
+results/classical/20250820_074948/** filter=lfs diff=lfs merge=lfs -text
