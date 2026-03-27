@@ -1,0 +1,9 @@
+__pycache__/    
+notebooks/digits
+notebooks/ideal
+notebooks/noisy
+notebooks/backup
+results-final/all-configs-0/**/run_*/*.png
+results-final/all-configs-0/**/run_*/**/*.png
+results-final/all-configs-spsa/**/run_*/*.png
+results-final/all-configs-spsa/**/run_*/**/*.png

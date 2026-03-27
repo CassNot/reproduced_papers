@@ -1,3 +1,4 @@
+import torch
 import torch.nn as nn
 
 
@@ -13,7 +14,6 @@ class Discriminator(nn.Module):
             nn.Linear(64, 16),
             nn.ReLU(),
             nn.Linear(16, 1),
-            nn.Sigmoid(),
         )
 
     def forward(self, x):
